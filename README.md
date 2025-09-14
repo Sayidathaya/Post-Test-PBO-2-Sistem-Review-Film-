@@ -185,8 +185,6 @@ Jika tidak ditemukan → muncul pesan *"Film tidak ditemukan."*
 
 ## ✅ Penerapan Dalam Output
 
-<img width="882" height="854" alt="Image" src="https://github.com/user-attachments/assets/8d988470-8f4d-49f3-b477-475c396de482" />
-
 <img width="436" height="540" alt="Image" src="https://github.com/user-attachments/assets/2c2fdbe2-3f13-49e3-a896-426b9ef9aa45" />
 
 <img width="422" height="259" alt="Image" src="https://github.com/user-attachments/assets/27be75f3-faed-4260-8429-caed45e22182" />

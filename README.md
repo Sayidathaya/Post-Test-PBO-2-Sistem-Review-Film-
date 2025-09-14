@@ -206,7 +206,7 @@ Jika tidak ditemukan → muncul pesan *"Film tidak ditemukan."*
 ## 🎯 Alur Program
 
 1. Program dimulai dengan menampilkan menu utama.
-2. User memilih menu (1–6).
+2. User memilih menu (1–7).
 3. Setiap pilihan menu akan menjalankan method di `FilmService`.
 
    * Tambah Film → membuat objek `Film` baru, dimasukkan ke `ArrayList`.
@@ -214,6 +214,7 @@ Jika tidak ditemukan → muncul pesan *"Film tidak ditemukan."*
    * Update Film → mencari film berdasarkan judul, lalu mengubah rating.
    * Hapus Film → menghapus film berdasarkan judul.
    * Cari Film → menampilkan detail film tertentu berdasarkan input judul.
-4. Program terus berjalan hingga user memilih menu keluar (6).
+   * Keluar → keluar dari program.
+4. Program terus berjalan hingga user memilih menu keluar (7).
 
 ---

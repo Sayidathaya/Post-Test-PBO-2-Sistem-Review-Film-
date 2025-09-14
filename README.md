@@ -105,6 +105,8 @@ Struktur project menggunakan **pola MVC (Model-View-Controller)** dengan pembagi
 
 <img width="889" height="699" alt="Image" src="https://github.com/user-attachments/assets/b9d0846b-3ce5-4d74-a2ea-8d084f9f4d87" />
 
+<img width="882" height="854" alt="Image" src="https://github.com/user-attachments/assets/8d988470-8f4d-49f3-b477-475c396de482" />
+
 * Menggunakan **Scanner** untuk input user
 
 * Menyediakan menu pilihan:
